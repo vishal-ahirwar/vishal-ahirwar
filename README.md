@@ -1,4 +1,6 @@
-- 👋 Hi, This is Vishal Self Taught Developer
+- 👋 Vishal Ahirwar,
+- Self Taught Developer
+- [Robotics Programming, Drones Programming, System Programming,C++ Programmer, Python/Django Developer, Backend Programmer, Linux]. 
 
 - 📫 How to reach me ...
   -Mail -vishalchoudhry0091@gmail.com
