@@ -10,10 +10,9 @@ Python{Full stack web developer(django/Vue/PostgreSQL), web scrabbing, Data Anal
 ```
 # How to reach me ✨✨✨
 ```
-----------------------
  -GMail -vishalchoudhry0091@gmail.com
  -twitter -@_vishalme_
- -Video Games -https://vishal-ahirwar.itch.io/
+ -Play My Games -https://vishal-ahirwar.itch.io/
  -Linkedin-https://www.linkedin.com/in/vishalahirwar
 ```
 <!---
