@@ -1,4 +1,4 @@
-- ![1650948118552](https://user-images.githubusercontent.com/73791462/166522186-416060e5-b901-44e3-b746-ecb80d34f065.jpeg width=50)
+- ![1650948118552 width=50](https://user-images.githubusercontent.com/73791462/166522186-416060e5-b901-44e3-b746-ecb80d34f065.jpeg)
 - 👋hey Vishal Ahirwar is here,Self Taught Developer
 -  Software Developer(C/C++) but also I'm Backend Programmer(Python Django/PostgreSQL)
   '''
