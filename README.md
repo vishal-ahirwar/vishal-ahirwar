@@ -1,7 +1,7 @@
 # I'm✨✨✨
 ```
 Vishal Ahirwar,
-Full Time C/C++ Software Prgorammer{
+Full Time C/C++ Software Developer{
                                      QT,wxWidgets,Robotics,BlockChain EOS Developer,
                                      Computer Vision, Low lagecy Code,learning Embbedded System Programming
                                     };
