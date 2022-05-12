@@ -1,7 +1,7 @@
 # I'm✨✨✨
 ```
 Vishal Ahirwar,
-In Terms of College Degree Persuing Machanical Engineering(cause I love robotics,drones,nano tech)
+In Terms of College Degree I'm Persuing Machanical Engineering(cause I love robotics,drones,nano tech)
 but In Terms of Profession I'm
 Full Time C/C++ Software Developer{
                                      QT,wxWidgets,Robotics,BlockChain EOS Developer,
