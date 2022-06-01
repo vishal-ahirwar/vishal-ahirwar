@@ -3,30 +3,32 @@
 Vishal Ahirwar,
 In Terms of College Degree I'm Persuing Machanical Engineering(cause I love robotics,drones,nano tech)
 but In Terms of Profession I'm
-Full Time C/C++ Software Developer{
-                                     QT,wxWidgets,Robotics,BlockChain EOS Developer,
-                                     Computer Vision, Low lagecy Code,learning Embbedded System Programming
-                                    };
-Part Time Python Developer:
-                          (Full stack developer/django/vue/postgreSQL),web scrabber,data analysis,computer vision
+Full Time C/C++/Python Software Developer 
+                  
 ```
 # Top Skills✨✨✨
 ```
-C/C++{
-       Socket Programming,Interprocess-Communication,GUI Prgoramming with wxWidgets or QT,
-       BlockChain EOS Development,UE4 C++ Developer,Embbedded System Programming(learning),
-       metaprogramming,mulithreading,software developemnt,Machine Learning
-      };
+C/C++ Developer Having more than 4years+ of experience working on C++ and Python Open Source and
+freelance Projects;
+C++ Skills:
+Core C++, STL, Boost;
+multithreading, Socket Programming, Linux;
+Qt, wxWidget, EOS Blockchain, ROS C++ API , Godot, Unreal Engine,Raylib ;
+Basic+Learning:
+Machine Learning, Embedded System Programming
+PostgreSQL;
 Python:
-       Full stack web developer(django/Vue/PostgreSQL), web scrabbing, Data Analysis
-       
+Core Python Features + Django;
+Quick Learner:)
+[I'm Self Taught]
+Vishal Ahirwar.    
 ```
 # How to reach me ✨✨✨
 ```
- GMail -vishalchoudhry0091@gmail.com
- twitter -@_vishalme_
- Play My Games -https://vishal-ahirwar.itch.io/
- Linkedin-https://www.linkedin.com/in/vishalahirwar
+ EMail    : vishal_ahirwar1@yahoo.com
+ twitter  : @_vishalme_
+ Games    : https://vishal-ahirwar.itch.io/
+ Linkedin : https://www.linkedin.com/in/vishalahirwar
 ```
 <!---
 IVishalAhirwar/IVishalAhirwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
