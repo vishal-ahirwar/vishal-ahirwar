@@ -8,7 +8,7 @@ Full Time C/C++/Python Software Developer
 ```
 # Top Skills✨✨✨
 ```
-C/C++ Developer Having more than 4years+ of experience working on C++ and Python Open Source and
+C/C++ Developer Having more than 2 years+ of experience working on C++ and Python Open Source and
 freelance Projects;
 C++ Skills:
 Core C++, STL, Boost;
