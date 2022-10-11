@@ -25,8 +25,8 @@ Vishal Ahirwar.
 ```
 # How to reach me ✨✨✨
 ```
- EMail    : vishal_ahirwar1@yahoo.com
- twitter  : @vishal8ahirwar
+ EMail    : itsvishal.ahirwar@gmail.com
+ twitter  : @V1sh01Ah1rw0r
  Games    : https://vishal-ahirwar.itch.io/
  Linkedin : https://www.linkedin.com/in/vishalahirwar
 ```
