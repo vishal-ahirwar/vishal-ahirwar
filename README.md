@@ -1,10 +1,8 @@
 # I'm✨✨✨
 ```
 Vishal Ahirwar,
-In Terms of College Degree I'm Persuing Machanical Engineering(cause I love robotics,drones,nano tech)
-but In Terms of Profession I'm
-Full Time C/C++/Python Software Developer 
-                  
+C/C++ Software Developer  
+
 ```
 # Top Skills✨✨✨
 ```
@@ -26,7 +24,6 @@ Vishal Ahirwar.
 # How to reach me ✨✨✨
 ```
  EMail    : itsvishal.ahirwar@gmail.com
- twitter  : @V1sh01Ah1rw0r
  Games    : https://vishal-ahirwar.itch.io/
  Linkedin : https://www.linkedin.com/in/vishalahirwar
 ```
