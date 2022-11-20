@@ -18,7 +18,6 @@ PostgreSQL;
 Python:
 Core Python Features + Django;
 Quick Learner:)
-[I'm Self Taught]
 Vishal Ahirwar.    
 ```
 # How to reach me ✨✨✨
