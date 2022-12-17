@@ -3,7 +3,7 @@ Vishal Ahirwar,
 Software Developer(C/C++)  
 [Robotics, Unreal Engine, Andorid, BlockChain, AI/ML]
 
-Any Query Reach out ot me:
+Any Query Reach out to me:
 ```
 EMail    : itsvishal.ahirwar@gmail.com
 ```
