@@ -6,7 +6,11 @@ Software Developer(C/C++)
 Any Query Reach out ot me:
 ```
 EMail    : itsvishal.ahirwar@gmail.com
+```
+```
 Games    : https://vishal-ahirwar.itch.io/
+```
+```
 Linkedin : https://www.linkedin.com/in/vishalahirwar
 ```
 <!---
