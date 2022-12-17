@@ -1,13 +1,12 @@
 # I'm✨✨✨
-```
 Vishal Ahirwar,
-C/C++ Software Developer  
-
-# How to reach me ✨✨✨
-
- EMail    : itsvishal.ahirwar@gmail.com
- Games    : https://vishal-ahirwar.itch.io/
- Linkedin : https://www.linkedin.com/in/vishalahirwar
+Software Developer(C/C++)  
+[Robotics, Unreal Engine, Andorid, BlockChain, AI/ML]
+Any Query Reach out ot me:
+```
+EMail    : itsvishal.ahirwar@gmail.com
+Games    : https://vishal-ahirwar.itch.io/
+Linkedin : https://www.linkedin.com/in/vishalahirwar
 ```
 <!---
 IVishalAhirwar/IVishalAhirwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
