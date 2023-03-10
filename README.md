@@ -2,11 +2,11 @@
 ## Software Developer(C/C++)  
 
 to me:
-```EMail : itsvishal.ahirwar@gmail.com ``` ```https://vishal-ahirwar.itch.io/```
-```
-Linkedin : https://www.linkedin.com/in/vishalahirwar [Robotics, Unreal Engine, Andorid, Computer Vision, AI/ML]
+EMail : ```itsvishal.ahirwar@gmail.com ```
+Some Projects : ```https://vishal-ahirwar.itch.io/```
 
-```
+Linkedin : ```https://www.linkedin.com/in/vishalahirwar```
+ [Robotics, Unreal Engine, Andorid, Computer Vision, AI/ML]
 ## Top Skills:
 ```C++``` ```Python``` ```Java``` ```Unreal Engine``` ```Android App Development```
 ```ROS(Robotics Operating System)``` ```Linux``` ```C``` ```Computer Vision``` ```Rapid Leaner ;)``` ```Etc.```
