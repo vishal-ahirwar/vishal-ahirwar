@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
 
-- 💬 Ask me about **C,C++, Linux, Unreal Engine4/5, Backend Development**
+- 💬 Ask me about **C,C++, Linux, Unreal Engine4/5, Backend Development, Robotics**
 
 - 📫 How to reach me **itsvishal.ahirwar@gmail.com**
 
