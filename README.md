@@ -6,11 +6,11 @@
 -  **Founder of Univio Entertainment**
 -  **Founder of Namaste App ©Vishal Interprises**
 -  **Building Namaste Cross-platform App in C++ and Flutter**
-- 👨‍💻 All of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
+- **All of my projects are available at** [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
 
-- 💬 Ask me about **C,C++, Linux, Unreal Engine4/5, Backend Development, Robotics**
+- ** Ask me about C,C++, Linux, Unreal Engine4/5, Backend Development, Robotics**
 
-- 📫 How to reach me **itsvishal.ahirwar@gmail.com**
+- **How to reach me **itsvishal.ahirwar@gmail.com**
 
 - ⚡ Fun fact **I love playing Football :)**
 
