@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ahirwar&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ahirwar" /> </p>
 
-- 🌱 I’m currently learning **Mechanical Engineering**
+- 🌱 College Dropout [Mechanical Engineering]
 
 - 👨‍💻 All of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
 
