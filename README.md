@@ -7,9 +7,9 @@
 -  **Founder of Namaste App ©Vishal Interprises**
 -  **Building Namaste Cross-platform App in C++ and Flutter**
 -  **Wanna play some Video Games ** [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
--  **Ask me about C,C++, Linux, Unreal Engine4/5, Backend Development, Robotics
--  **How to reach me **itsvishal.ahirwar@gmail.com**
--  **Fun fact **I love playing Football :)**
+-  **Ask me about C,C++, Linux, Unreal Engine4/5, Backend Development, Robotics**
+-  **How to reach me itsvishal.ahirwar@gmail.com**
+-  **Fun fact I love playing Football :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
