@@ -1,14 +1,12 @@
-<h1 align="center">Hi, I'm Vishal Ahirwar</h1>
-<h3 align="center">A passionate C++ developer with entrepreneurship mindset :)</h3>
+<h1 align="center">Hi, I am Vishal Ahirwar</h1>
+<h3 align="center">A Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ahirwar&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ahirwar" /> </p>
 
--  **Founder of Univio Entertainment**
--  **Founder of Namaste App ©Vishal Interprises**
 -  **Building Namaste Cross-platform App in C++ and Flutter**
--  **Wanna play some Video Games  [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)**
+-  **Want to play some Video Games  [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)**
 -  **Ask me about C,C++, Linux, Unreal Engine4/5, Backend Development, Robotics**
--  **How to reach me itsvishal.ahirwar@gmail.com**
+-  **How to reach me vishal.ahirwar.in@outlook.com**
 -  **Fun fact I love playing Football :)**
 
 <h3 align="left">Connect with me:</h3>
