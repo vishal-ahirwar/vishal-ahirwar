@@ -6,7 +6,7 @@ I’m looking to collaborate on **C++ projects**
 some of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
 Ask me about **C++, Unreal Engine, Linux**
 How to reach me **vishal.ahirwar@outlook.com**
- Fun fact **I think I'm Introvert XD**
+Fun fact I love Anime;)
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
