@@ -1,18 +1,12 @@
 ```
 Hi 👋, I'm Vishal Ahirwar
-A passionate software developer from India Pursuing BS Degree in  Electronic Systems from IIM
-
-- 🌱 I’m currently learning **Django, Flutter and OpenCV**
-
-- 👯 I’m looking to collaborate on **C++ projects**
-
-- 👨‍💻 some of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
-
-- 💬 Ask me about **C++, Unreal Engine, Linux**
-
-- 📫 How to reach me **vishal.ahirwar@outlook.com**
-
-- ⚡ Fun fact **I think I'm Introvert XD**
+A passionate software developer from India Pursuing BS Degree in  Electronic Systems from IITM
+I’m currently learning **Django, Flutter and OpenCV**
+I’m looking to collaborate on **C++ projects**
+some of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
+Ask me about **C++, Unreal Engine, Linux**
+How to reach me **vishal.ahirwar@outlook.com**
+ Fun fact **I think I'm Introvert XD**
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
