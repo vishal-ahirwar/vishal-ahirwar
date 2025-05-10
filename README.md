@@ -1,7 +1,7 @@
 ```
 Hi 👋, I'm Vishal Ahirwar
 A passionate software developer from India Pursuing BS Degree in  Electronic Systems from IITM
-I’m currently learning Embedded System, ROS and ooking to collaborate on C++ projects in
+I’m currently learning Embedded System, ROS and looking to collaborate on C++ projects in
 Robotics industry.
 some of my projects are available at [https://vishal-ahirwar.itch.io/](https://vishal-ahirwar.itch.io/)
 Ask me about Qt, C++, Unreal Engine Multiplayer Programmer, Linux, ROS, Embedded Systems
